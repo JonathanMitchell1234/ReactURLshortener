@@ -3,3 +3,5 @@
 
 View Demo Here: https://reacturlshortener.vercel.app/
 
+Note: The API For this app is occasionally very slow, you may encounter an error or very slow processing time.
+
